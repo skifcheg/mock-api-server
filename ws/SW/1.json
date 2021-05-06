@@ -1,0 +1,11 @@
+182 |
+  {
+    "state": "BET_LOCKED",
+    "identifier": "SPINWIN_LANDBASED",
+    "gameKey": "SW",
+    "betTime": 15000,
+    "betLockedTime": 15000,
+    "showdownTime": 15000,
+    "delayTime": 15000,
+    "broadcastType": "LIFECYCLE_STATUS"
+  }

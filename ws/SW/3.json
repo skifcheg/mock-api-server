@@ -1,0 +1,38 @@
+855 |
+  {
+    "state": "DELAY",
+    "identifier": "SPINWIN_LANDBASED",
+    "gameKey": "SW",
+    "betTime": 15000,
+    "betLockedTime": 15000,
+    "showdownTime": 15000,
+    "delayTime": 15000,
+    "nextGameRoundNumber": 2513,
+    "previousResults": [
+      { "gameRoundIndex": 2512, "result": 33 },
+      { "gameRoundIndex": 2511, "result": 32 },
+      { "gameRoundIndex": 2510, "result": 3 },
+      { "gameRoundIndex": 2509, "result": 26 },
+      { "gameRoundIndex": 2508, "result": 18 },
+      { "gameRoundIndex": 2507, "result": 34 },
+      { "gameRoundIndex": 2506, "result": 34 },
+      { "gameRoundIndex": 2505, "result": 7 },
+      { "gameRoundIndex": 2504, "result": 12 },
+      { "gameRoundIndex": 2503, "result": 28 }
+    ],
+    "hotNumbers": [
+      { "result": 6, "count": 17 },
+      { "result": 11, "count": 16 },
+      { "result": 1, "count": 14 },
+      { "result": 19, "count": 14 },
+      { "result": 32, "count": 13 }
+    ],
+    "coldNumbers": [
+      { "result": 12, "count": 6 },
+      { "result": 9, "count": 6 },
+      { "result": 23, "count": 6 },
+      { "result": 15, "count": 5 },
+      { "result": 17, "count": 4 }
+    ],
+    "broadcastType": "LIFECYCLE_STATUS"
+  }

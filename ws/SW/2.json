@@ -1,0 +1,13 @@
+227 |
+  {
+    "state": "SHOWDOWN",
+    "identifier": "SPINWIN_LANDBASED",
+    "gameKey": "SW",
+    "betTime": 15000,
+    "betLockedTime": 15000,
+    "showdownTime": 15000,
+    "delayTime": 15000,
+    "gameRoundNumber": 2512,
+    "currentRoundResult": 33,
+    "broadcastType": "LIFECYCLE_STATUS"
+  }

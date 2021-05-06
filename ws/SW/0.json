@@ -1,0 +1,374 @@
+4475 |
+  {
+    "state": "BET",
+    "identifier": "SPINWIN_LANDBASED",
+    "gameKey": "SW",
+    "betTime": 15000,
+    "betLockedTime": 15000,
+    "showdownTime": 15000,
+    "delayTime": 15000,
+    "gameRoundNumber": 2512,
+    "previousResults": [
+      { "gameRoundIndex": 2511, "result": 32 },
+      { "gameRoundIndex": 2510, "result": 3 },
+      { "gameRoundIndex": 2509, "result": 26 },
+      { "gameRoundIndex": 2508, "result": 18 },
+      { "gameRoundIndex": 2507, "result": 34 },
+      { "gameRoundIndex": 2506, "result": 34 },
+      { "gameRoundIndex": 2505, "result": 7 },
+      { "gameRoundIndex": 2504, "result": 12 },
+      { "gameRoundIndex": 2503, "result": 28 },
+      { "gameRoundIndex": 2502, "result": 36 }
+    ],
+    "betMarkets": [
+      {
+        "marketType": "COLOR_NUMBER",
+        "odds": [
+          {
+            "oddType": "COLOR_NUMBER",
+            "id": 441827,
+            "meta1": null,
+            "meta2": "BLACK",
+            "oddValue": 2
+          },
+          {
+            "oddType": "COLOR_NUMBER",
+            "id": 441828,
+            "meta1": null,
+            "meta2": "RED",
+            "oddValue": 2
+          }
+        ]
+      },
+      {
+        "marketType": "DOZEN",
+        "odds": [
+          {
+            "oddType": "DOZEN",
+            "id": 441829,
+            "meta1": null,
+            "meta2": "ONE",
+            "oddValue": 2
+          },
+          {
+            "oddType": "DOZEN",
+            "id": 441830,
+            "meta1": null,
+            "meta2": "TWO",
+            "oddValue": 2
+          },
+          {
+            "oddType": "DOZEN",
+            "id": 441831,
+            "meta1": null,
+            "meta2": "THREE",
+            "oddValue": 2
+          }
+        ]
+      },
+      {
+        "marketType": "EVEN_ODD_NUMBER",
+        "odds": [
+          {
+            "oddType": "EVEN_ODD_NUMBER",
+            "id": 441832,
+            "meta1": null,
+            "meta2": "EVEN",
+            "oddValue": 2
+          },
+          {
+            "oddType": "EVEN_ODD_NUMBER",
+            "id": 441833,
+            "meta1": null,
+            "meta2": "ODD",
+            "oddValue": 2
+          }
+        ]
+      },
+      {
+        "marketType": "EXACT_NUMBER",
+        "odds": [
+          {
+            "oddType": "EXACT_NUMBER",
+            "id": 441834,
+            "meta1": 0,
+            "meta2": null,
+            "oddValue": 36
+          },
+          {
+            "oddType": "EXACT_NUMBER",
+            "id": 441835,
+            "meta1": 1,
+            "meta2": null,
+            "oddValue": 36
+          },
+          {
+            "oddType": "EXACT_NUMBER",
+            "id": 441836,
+            "meta1": 2,
+            "meta2": null,
+            "oddValue": 36
+          },
+          {
+            "oddType": "EXACT_NUMBER",
+            "id": 441837,
+            "meta1": 3,
+            "meta2": null,
+            "oddValue": 36
+          },
+          {
+            "oddType": "EXACT_NUMBER",
+            "id": 441838,
+            "meta1": 4,
+            "meta2": null,
+            "oddValue": 36
+          },
+          {
+            "oddType": "EXACT_NUMBER",
+            "id": 441839,
+            "meta1": 5,
+            "meta2": null,
+            "oddValue": 36
+          },
+          {
+            "oddType": "EXACT_NUMBER",
+            "id": 441840,
+            "meta1": 6,
+            "meta2": null,
+            "oddValue": 36
+          },
+          {
+            "oddType": "EXACT_NUMBER",
+            "id": 441841,
+            "meta1": 7,
+            "meta2": null,
+            "oddValue": 36
+          },
+          {
+            "oddType": "EXACT_NUMBER",
+            "id": 441842,
+            "meta1": 8,
+            "meta2": null,
+            "oddValue": 36
+          },
+          {
+            "oddType": "EXACT_NUMBER",
+            "id": 441843,
+            "meta1": 9,
+            "meta2": null,
+            "oddValue": 36
+          },
+          {
+            "oddType": "EXACT_NUMBER",
+            "id": 441844,
+            "meta1": 10,
+            "meta2": null,
+            "oddValue": 36
+          },
+          {
+            "oddType": "EXACT_NUMBER",
+            "id": 441845,
+            "meta1": 11,
+            "meta2": null,
+            "oddValue": 36
+          },
+          {
+            "oddType": "EXACT_NUMBER",
+            "id": 441846,
+            "meta1": 12,
+            "meta2": null,
+            "oddValue": 36
+          },
+          {
+            "oddType": "EXACT_NUMBER",
+            "id": 441847,
+            "meta1": 13,
+            "meta2": null,
+            "oddValue": 36
+          },
+          {
+            "oddType": "EXACT_NUMBER",
+            "id": 441848,
+            "meta1": 14,
+            "meta2": null,
+            "oddValue": 36
+          },
+          {
+            "oddType": "EXACT_NUMBER",
+            "id": 441849,
+            "meta1": 15,
+            "meta2": null,
+            "oddValue": 36
+          },
+          {
+            "oddType": "EXACT_NUMBER",
+            "id": 441850,
+            "meta1": 16,
+            "meta2": null,
+            "oddValue": 36
+          },
+          {
+            "oddType": "EXACT_NUMBER",
+            "id": 441851,
+            "meta1": 17,
+            "meta2": null,
+            "oddValue": 36
+          },
+          {
+            "oddType": "EXACT_NUMBER",
+            "id": 441852,
+            "meta1": 18,
+            "meta2": null,
+            "oddValue": 36
+          },
+          {
+            "oddType": "EXACT_NUMBER",
+            "id": 441853,
+            "meta1": 19,
+            "meta2": null,
+            "oddValue": 36
+          },
+          {
+            "oddType": "EXACT_NUMBER",
+            "id": 441854,
+            "meta1": 20,
+            "meta2": null,
+            "oddValue": 36
+          },
+          {
+            "oddType": "EXACT_NUMBER",
+            "id": 441855,
+            "meta1": 21,
+            "meta2": null,
+            "oddValue": 36
+          },
+          {
+            "oddType": "EXACT_NUMBER",
+            "id": 441856,
+            "meta1": 22,
+            "meta2": null,
+            "oddValue": 36
+          },
+          {
+            "oddType": "EXACT_NUMBER",
+            "id": 441857,
+            "meta1": 23,
+            "meta2": null,
+            "oddValue": 36
+          },
+          {
+            "oddType": "EXACT_NUMBER",
+            "id": 441858,
+            "meta1": 24,
+            "meta2": null,
+            "oddValue": 36
+          },
+          {
+            "oddType": "EXACT_NUMBER",
+            "id": 441859,
+            "meta1": 25,
+            "meta2": null,
+            "oddValue": 36
+          },
+          {
+            "oddType": "EXACT_NUMBER",
+            "id": 441860,
+            "meta1": 26,
+            "meta2": null,
+            "oddValue": 36
+          },
+          {
+            "oddType": "EXACT_NUMBER",
+            "id": 441861,
+            "meta1": 27,
+            "meta2": null,
+            "oddValue": 36
+          },
+          {
+            "oddType": "EXACT_NUMBER",
+            "id": 441862,
+            "meta1": 28,
+            "meta2": null,
+            "oddValue": 36
+          },
+          {
+            "oddType": "EXACT_NUMBER",
+            "id": 441863,
+            "meta1": 29,
+            "meta2": null,
+            "oddValue": 36
+          },
+          {
+            "oddType": "EXACT_NUMBER",
+            "id": 441864,
+            "meta1": 30,
+            "meta2": null,
+            "oddValue": 36
+          },
+          {
+            "oddType": "EXACT_NUMBER",
+            "id": 441865,
+            "meta1": 31,
+            "meta2": null,
+            "oddValue": 36
+          },
+          {
+            "oddType": "EXACT_NUMBER",
+            "id": 441866,
+            "meta1": 32,
+            "meta2": null,
+            "oddValue": 36
+          },
+          {
+            "oddType": "EXACT_NUMBER",
+            "id": 441867,
+            "meta1": 33,
+            "meta2": null,
+            "oddValue": 36
+          },
+          {
+            "oddType": "EXACT_NUMBER",
+            "id": 441868,
+            "meta1": 34,
+            "meta2": null,
+            "oddValue": 36
+          },
+          {
+            "oddType": "EXACT_NUMBER",
+            "id": 441869,
+            "meta1": 35,
+            "meta2": null,
+            "oddValue": 36
+          },
+          {
+            "oddType": "EXACT_NUMBER",
+            "id": 441870,
+            "meta1": 36,
+            "meta2": null,
+            "oddValue": 36
+          }
+        ]
+      }
+    ],
+    "hotNumbers": [
+      { "result": 6, "count": 17 },
+      { "result": 11, "count": 16 },
+      { "result": 1, "count": 14 },
+      { "result": 19, "count": 14 },
+      { "result": 13, "count": 13 }
+    ],
+    "coldNumbers": [
+      { "result": 12, "count": 6 },
+      { "result": 9, "count": 6 },
+      { "result": 23, "count": 6 },
+      { "result": 15, "count": 5 },
+      { "result": 17, "count": 4 }
+    ],
+    "payTable": {
+      "exactNumber": 36,
+      "redBlackNumber": 2,
+      "evenOddNumber": 2,
+      "dozen": 2
+    },
+    "broadcastType": "LIFECYCLE_STATUS"
+  }
